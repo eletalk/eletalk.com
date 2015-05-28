@@ -67,7 +67,7 @@
                 <img src="images/slider/1.png" alt="" />
             </div>
 
-            
+
         </div>
 
 
@@ -128,8 +128,8 @@
 
             <div class="col-sm-3">
                 <div class="wow fadeInUp" data-wow-delay="0.1s">
-                    <p id="myStat1" data-dimension="175" data-animationstep="0.5" data-text="+25%" data-width="25" data-fontsize="29" data-percent="30" data-fgcolor="#00adef" data-bgcolor="#E1E3E4" data-fill="#CECECE"></p>
-                    <span>De Elevadores en MTY & DF</span>
+                    <p id="myStat1" data-dimension="175" data-animationstep="0.5" data-text="45s  " data-width="25" data-fontsize="29" data-percent="30" data-fgcolor="#00adef" data-bgcolor="#E1E3E4" data-fill="#CECECE"></p>
+                    <span>Estancia promedio en un elevador </span>
                 </div>
             </div>
 
@@ -142,7 +142,7 @@
 
             <div class="col-sm-3">
                 <div class="wow fadeInUp" data-wow-delay="0.3s">
-                    <p id="myStat3" data-dimension="175" data-animationstep="0.5" data-text="+65%" data-width="25" data-fontsize="29" data-percent="70" data-fgcolor="#00adef" data-bgcolor="#E1E3E4" data-fill="#CECECE"></p>
+                    <p id="myStat3" data-dimension="175" data-animationstep="0.5" data-text="+75%" data-width="25" data-fontsize="29" data-percent="70" data-fgcolor="#00adef" data-bgcolor="#E1E3E4" data-fill="#CECECE"></p>
                     <span>Efectividad de anuncios</span>
                 </div>
             </div>
@@ -150,7 +150,7 @@
             <div class="col-sm-3">
                 <div class="wow fadeInUp" data-wow-delay="0.4s">
                     <p id="myStat4" data-dimension="175" data-animationstep="0.5" data-text="96%" data-width="25" data-fontsize="29" data-percent="96" data-fgcolor="#00adef" data-bgcolor="#E1E3E4" data-fill="#CECECE"></p>
-                    <span>Marcas recurrentes</span>
+                    <span>Captación</span>
                 </div>
             </div>
 
